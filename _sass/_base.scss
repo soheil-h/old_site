@@ -64,7 +64,7 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-  
+
   img {
     width: 100%;
   }
@@ -106,6 +106,7 @@ blockquote {
     }
   }
 }
+
 
 @media (min-width: 576px) {
   .profile {
@@ -417,12 +418,13 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
+    color: var(--global-year-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
     padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
+    margin-top: -2rem;
+    margin-bottom: 2rem;
     text-align: right;
+    font-weight: bolder;
   }
   ol.bibliography {
     list-style: none;
@@ -430,7 +432,7 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 3rem;
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
@@ -453,6 +455,7 @@ footer.sticky-bottom {
       }
       .title {
         font-weight: bolder;
+        font-size: 20px;
       }
       .author {
         a {
