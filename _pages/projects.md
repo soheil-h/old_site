@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description:
 nav: true
-display_categories: [Current, Previous]
+display_categories: [PhD, Past]
 horizontal: false
 ---
 
@@ -33,6 +33,9 @@ horizontal: false
   </div>
   {%- endif -%}
   {% endfor %}
+
+
+
 
 {%- else -%}
 <!-- Display projects without categories -->

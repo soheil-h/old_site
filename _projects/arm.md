@@ -2,33 +2,77 @@
 layout: page
 title: Robot Arm
 description: Dexterous 6-DoF manipulator for mobile response robots
-img: assets/img/projects/arm/arm_1.jpg
+img: assets/img/projects/arm/arm1_1.jpg
 importance: 1
-category: Previous
+category: Past
 ---
 
-Most of the rescue robots are required to perform tasks in real disaster sites, which demand accurate, light weight and soft-controlled manipulators. Object manipulation, dexterity actions and target detection are the most critical required tasks. To that end, a 6-DOF 2-link manipulator is designed and implemented in Advanced Mobile Robotics Laboratory by a group of mechanical and electrical engineers. The 2-link robotic arm enables users to manipulate objects and detect particular parameters as the most critical tasks in the environment with complete safety, freedom, and effectiveness. Each of the degrees of freedom’s link is independently removable, and easy-to-replace with another equipment in order to perform different tasks. Its main structure, is entirely made of Aluminum and Carbon fiber, delivers optimal robustness and durability as well as a cutting-edge look-and-feel. It is equipped with a gripper, consist of 2 jaw-opening fingers that coupled to each other. It has friction pads which allow the fingers to adjust to any object whatever its shape. In addition, an ARM-based board is developed to control the servo motors by getting position and velocity feedback and sending commands in RS-485 bus and communicate the information with control station by Ethernet.
+Response robots are required to perform tasks in disaster environments, which demands dexterous object manipulation and accurate target detection. I designed a 6-DOF arm in Advanced Mobile Robotics Laboratory particularly for these types of robots. Our goal was to develop a robot arm to enable users easily detect and manipulate objects while navigating the mobile robot within the environment.
+
+For this reason, I followed a compact design with independent links that can rapidly be removed for new equipment or even replaced for maintenance. I picked the main structure entirely made of aluminum and carbon fiber, which delivers optimal robustness and durability as well as a cutting-edge look-and-feel. This arm can have two different types of grippers at the end-effector: jaw-opening and parallel gripping mechanisms, and the grippers' fingers have friction pads that allow semi-adaptive grasping. We also added an inspection module (i.e., cameras, sensors, communication devices) to the arm to facilitate object detection. Finally, our team fully implemented all the communication and control units with customized electrical boards.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/arm/arm_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/arm/arm1_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/arm/arm_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/arm/arm1_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/arm/arm_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/arm/arm1_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/arm/arm_4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/arm/arm1_4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/arm/arm_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/arm/arm1_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/arm/arm_6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/arm/arm1_6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Caption.
+</div>
+
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/arm/arm2_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/arm/arm2_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/arm/arm2_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/arm/arm2_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/arm/arm2_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/arm/arm2_6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Caption.
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/arm/arm3_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>  
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/arm/arm3_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
