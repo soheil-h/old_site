@@ -11,10 +11,10 @@ While inspection and reconnaissance robots utilize various locomotion mechanisms
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/throwbot/throwbot_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/throwbot/throwbot_2.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/throwbot/throwbot_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/throwbot/throwbot_3.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
@@ -24,10 +24,10 @@ While inspection and reconnaissance robots utilize various locomotion mechanisms
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/throwbot/throwbot_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/throwbot/throwbot_4.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/throwbot/throwbot_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/throwbot/throwbot_5.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
