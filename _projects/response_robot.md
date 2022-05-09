@@ -45,10 +45,10 @@ Karo can be perceived as an unmanned ground vehicle (UGV) that has a dexterous r
         {% include figure.html path="assets/img/projects/response_robot/karo_p_4.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/karo_p_5.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_p_5.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/karo_p_6.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_p_6.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
@@ -69,7 +69,7 @@ Our team started this project in 2015. We undertook extensive evaluations of Kar
         {% include figure.html path="assets/img/projects/response_robot/karo_cad.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/karo_diagram.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_diagram.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
