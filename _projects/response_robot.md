@@ -22,7 +22,7 @@ The biggest challenge with response robots is embedding all mobility, dexterity,
     </div>
 </div>
 <div class="caption">
-    Karo Plus conducting rescue missions at RoboCup 2017.
+    Karo Plus performing inspection tasks in rescue missions at RoboCup 2017.
 </div>
 
 
@@ -57,7 +57,7 @@ Karo can be perceived as an unmanned ground vehicle (UGV) that has a dexterous r
 
 Our team at [AMRL](https://mrl-amrl.ir/) implemented the command and control system with a customized power system, sensors, and hardware systems that fits the robot's requirements. We equipped Karo's inspection system with high-resolution cameras, night vision, infra-red vision, precise sensor systems, and full-duplex audio interface. Karo benefits from our own software system and human–robot interface that enables the operator to remotely operate the robot and have a bi-directional communication with the environment.
 
-<p align="center"><iframe width="560" height="315" src="https://youtu.be/V9PUI6NAmOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FIUPeqhwBsg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
@@ -73,7 +73,7 @@ Our team started this project in 2015. We undertook extensive evaluations of Kar
     </div>
 </div>
 <div class="caption">
-    Module arrangement and detail design of Karo’s locomotion mechanism in SolidWorks.
+    Module arrangement and detail design of Karo’s locomotion mechanism.
 </div>
 
 
@@ -107,8 +107,7 @@ Our team started this project in 2015. We undertook extensive evaluations of Kar
     Karo performing evaluation tests at training suites of a fire department.
 </div>
 
-
-<p align="center"><iframe width="560" height="315" src="https://youtu.be/V9PUI6NAmOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/V9PUI6NAmOY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
