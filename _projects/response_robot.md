@@ -2,35 +2,81 @@
 layout: page
 title: Response Robot
 description: Maxi-sized tracked response robot for hazardous environments
-img: assets/img/projects/response_robot/robot1_1.jpg
+img: assets/img/projects/response_robot/karo_1.jpg
 importance: 2
 category: Past
 ---
 
-Karo is an unmanned ground vehicle (UGV), equipped with a dexterous robotic arm, which is designed and implemented with functions of mobility, manipulation, mapping, and inspection in areas that are inaccessible or too dangerous for people. This tele-operative robot easily climbs and descends, stairs and slopes efficiently. It can overcome obstacles and debris to perform reconnaissance, dispose of bombs, rescue and inspection with a high level of accuracy and controllability. High-resolution camera, night vision, infra-red vision, precise sensor systems, and full-duplex audio interface are provided for the inspection system. It tele-communicates collected information of targets to the control station simultaneously. Karo can be supplied in various user-specified configurations.
+The biggest challenge with response robots is embedding all mobility, dexterity, and reconnaissance capabilities in a single robot. We designed and implemented Karo ---a tele-operative response robot--- that exhibits a high degree of mobility at the side of maintaining required dexterity and exploration capabilities for urban search and rescue (USAR) missions.
+
+Karo can be perceived as an unmanned ground vehicle (UGV) that has a dexterous robotic arm and is able to perform high mobility, manipulation, mapping, and inspection in areas that are inaccessible or too dangerous for people. We developed Karo based on the system requirements of a standard rescue robot from the frameworks of [Rescue Robot League](https://rrl.robocup.org/) (RRL) of [RoboCup](https://www.robocup.org/) competitions. Karo easily climbs and descends, stairs and slopes using the tracked locomotion system and performs reconnaissance, rescue and inspection task while maintaining the stability on those obstacles.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/KaroPlus_1.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_p_1.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/KaroPlus_2.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_p_2.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/KaroPlus_3.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_p_3.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/KaroPlus_4.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_p_4.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/KaroPlus_5.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_p_5.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/response_robot/KaroPlus_6.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/projects/response_robot/karo_p_6.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
-    Version 3. (Top) The arm performing tasks at RoboCup 2017. Joints are controlled with EC motors and transmit high torque through self-locking worm gearboxes that are equipped with backlash adjustment mechanisms. (Bottom) Shows key joint mechanisms used in the arm.
+    Karo Plus conducting rescue missions at RoboCup 2017.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/response_robot/karo_1.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/response_robot/karo_2.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Karo conducting Rescue Robot League's missions at RoboCup 2015.
+</div>
+
+Our team at [AMRL](https://mrl-amrl.ir/) implemented the command and control system with a customized power system, sensors, and hardware systems that fits the robot's requirements. We equipped Karo's inspection system with high-resolution cameras, night vision, infra-red vision, precise sensor systems, and full-duplex audio interface. Karo benefits from our own software system and human–robot interface that enables the operator to remotely operate the robot and have a bi-directional communication with the environment. We undertook extensive evaluations of Karo’s field performance at RRL’s test suites and training suites of a fire department to make sure it meets the principal objective of a response robot.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/response_robot/karo_3.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/response_robot/karo_4.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/response_robot/karo_5.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Karo during the rescue mission in the simulated hazardous environment at RoboCup 2015.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/response_robot/karo_6.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/response_robot/karo_7.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/response_robot/karo_8.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Karo performing evaluation tests at training suites of a fire department.
 </div>
