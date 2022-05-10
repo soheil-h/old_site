@@ -2,7 +2,7 @@
 layout: page
 title: Soft Robotic
 description: Fiber-Reinforced Elastomeric Enclosure (FREE)
-img: assets/img/projects/soft_robot/free_module.jpg
+img: assets/img/projects/soft_robot/arxiv2021.jpg
 importance: 1
 category: Past
 ---
