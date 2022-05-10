@@ -3,7 +3,7 @@ layout: page
 title: ThrowBot
 description: Two wheeled throwable robot for exploration in disaster areas
 img: assets/img/projects/throwbot/throwbot_1.jpg
-importance: 3
+importance: 4
 category: Past
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Response Robot
 description: Maxi-sized tracked response robot for hazardous environments
 img: assets/img/projects/response_robot/karo_cad.jpg
-importance: 2
+importance: 3
 category: Past
 ---
 
