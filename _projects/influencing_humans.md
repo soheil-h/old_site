@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Influencing Human-Robot Teams
+title: Influencing Human Partners
 description: Robustly Influencing Latent Intent
 img: assets/img/projects/influencing_humans/arxiv2022.jpg
 importance: 1
