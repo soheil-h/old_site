@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Communicate Robot Learning With Haptic Displays
+title: Robot Learning With Haptic Displays
 description: Wrapping haptic displays around robot arms to communicate learning
 img: assets/img/projects/haptic_display/arxiv2022.jpg
 importance: 1
@@ -18,7 +18,7 @@ Humans can leverage physical interaction to teach robot arms. As the human kines
 Experimental setup and independent variables for the user study. (Left) Participants physically demonstrated a mock welding task to a Franka Emika robot arm. We mounted two lasers to the robot's end-effector: the robot prompted human teachers to keep the end-effector and lasers at the correct distance, height, and orientation. (Right) The robot indicated which feature(s) it needed help with using three different feedback modalities: <b>GUI</b>, <b>Local</b>, and <b>Global</b>.
 </div>
 
-We ultimately find that people <em>accurately distinguish</em> single-dimensional feedback with a Weber fraction of 11.4\%, and identify multi-dimensional feedback with 94.5\% accuracy. When physically teaching robot arms, humans leverage the single- and multi-dimensional feedback to provide better demonstrations than with visual feedback: our wrapped haptic display decreases teaching time while increasing demonstration quality. This improvement depends on the location and distribution of the wrapped haptic display.
+We ultimately find that people <em>accurately distinguish</em> single-dimensional feedback with a Weber fraction of 11.4%, and identify multi-dimensional feedback with 94.5% accuracy. When physically teaching robot arms, humans leverage the single- and multi-dimensional feedback to provide better demonstrations than with visual feedback: our wrapped haptic display decreases teaching time while increasing demonstration quality. This improvement depends on the location and distribution of the wrapped haptic display.
 
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yPcMGeqsjdM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
