@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robot Arm
+title: Robot Arm (3 versions)
 description: Dexterous 6-DoF manipulator for mobile response robots
 img: assets/img/projects/arm/arm1_1.jpg
 importance: 2
