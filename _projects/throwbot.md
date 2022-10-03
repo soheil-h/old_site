@@ -7,7 +7,7 @@ importance: 4
 category: Past
 ---
 
-While inspection and reconnaissance robots utilize various locomotion mechanisms to overcome obstacles in the working environment, they are restricted in some features such as size, weight, and rapid deployability. On the contrary, small light-weight robots assist operators to reach inaccessible areas that regular mobile robots cannot enter due to complex obstacles and narrow or blocked entrances. We developed a two-wheeled throwable robot embedded with video and audio systems to provide instantaneous communication with the operator, while its impact resistance wheels and carbon fiber cylindrical body efficiently absorb shock during repeated throws.
+While inspection and reconnaissance robots utilize various locomotion mechanisms to overcome obstacles in the working environment, they are restricted in some features such as size, weight, and rapid deployability. On the contrary, small lightweight robots assist operators to reach inaccessible areas that regular mobile robots cannot enter due to complex obstacles and narrow or blocked entrances. We developed a two-wheeled throwable robot embedded with video and audio systems to provide instantaneous communication with the operator, while its impact resistance wheels and carbon fiber cylindrical body efficiently absorb shock during repeated throws.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
