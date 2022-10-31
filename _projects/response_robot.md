@@ -26,7 +26,7 @@ The common challenge with response robots is embedding all mobility, dexterity, 
 </div>
 
 
-<b>Karo</b> Plus can be perceived as an unmanned ground vehicle (UGV) that has a dexterous robotic arm and is able to perform high mobility, manipulation, mapping, and inspection in areas that are inaccessible or too dangerous for people. We developed <b>Karo</b> based on the system requirements of a standard rescue robot from the frameworks of [Rescue Robot League] (RRL)(https://rrl.robocup.org/) (RRL) of [RoboCup](https://www.robocup.org/) competitions. <b>Karo</b> easily climbs and descends, stairs and slopes using the tracked locomotion system and performs reconnaissance, rescue and inspection tasks while maintaining stability on those obstacles.
+<b>Karo</b> Plus can be perceived as an unmanned ground vehicle (UGV) that has a dexterous robotic arm and is able to perform high mobility, manipulation, mapping, and inspection in areas that are inaccessible or too dangerous for people. We developed <b>Karo</b> based on the system requirements of a standard rescue robot from the frameworks of [Rescue Robot League] (https://rrl.robocup.org/) (RRL) of [RoboCup](https://www.robocup.org/) competitions. <b>Karo</b> easily climbs and descends, stairs and slopes using the tracked locomotion system and performs reconnaissance, rescue and inspection tasks while maintaining stability on those obstacles.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
