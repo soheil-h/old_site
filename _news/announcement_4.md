@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-30
+date: 2023-01-13
 inline: true
 ---
 
-Our paper, "RILI: Robustly Influencing Latent Intent" got accepted to <b>IEEE/RSJ International Conference on Intelligent Robots and Systems</b>.
+I’m excited to share I joined <b>Honda Research Institute</b> in San Jose, CA as an intern.
