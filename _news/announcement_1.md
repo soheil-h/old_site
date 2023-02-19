@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-04-17
+date: 2023-02-11
 inline: true
 ---
 
-[Collab](https://collab.me.vt.edu/) will be at <b>IEEE International Conference on Robotics and Automation</b> in Philadelphia! Our group will present two papers at [ICRA 2022](https://www.icra2022.org/).
+I am delighted to announce that I've been selected as an <em><b>outstanding  peer reviewer</b></em> by the program committee of the [ACM/IEEE International Conference on Human-Robot Interaction (HRI)](https://humanrobotinteraction.org/2023/), 2023.

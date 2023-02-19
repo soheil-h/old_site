@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-26
+date: 2023-01-30
 inline: true
 ---
 
-Our paper, "Here’s What I’ve Learned: Asking Questions That Reveal Reward Learning" got accepted to <b>ACM Transactions on Human-Robot Interaction</b>. [[link](https://dl.acm.org/doi/10.1145/3526107)]
+Our collaborative work with RAAD LAB at Purdue, "Wrapping Haptic Displays Around Robot Arms to Communicate Learning" got published in <b>IEEE Transactions on Haptics</b>. [[link]](https://ieeexplore.ieee.org/document/10029880)
