@@ -2,7 +2,7 @@
 layout: page
 title: Influencing Human Partners
 description: Robustly Influencing Latent Intent
-img: assets/img/projects/influencing_humans/arxiv2022.jpg
+img: assets/img/projects/influencing_humans/iros2022.jpg
 importance: 2
 category: PhD
 ---
