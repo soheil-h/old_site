@@ -2,7 +2,7 @@
 layout: page
 title: Robot Learning With Haptic Displays
 description: Wrapping haptic displays around robot arms to communicate learning
-img: assets/img/projects/haptic_display/arxiv2022.jpg
+img: assets/img/projects/haptic_display/toh2023.jpg
 importance: 1
 category: PhD
 ---
