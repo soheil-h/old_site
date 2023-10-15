@@ -2,16 +2,16 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://soheilhbn.com/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Soheil  Habibian | Page not found</title>
+    <title>Soheil  Habibian | Influencing Human Partners</title>
     <meta name="author" content="Soheil  Habibian" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="Robustly Influencing Latent Intent" />
 
 
     <!-- Bootstrap & MDB -->
@@ -31,7 +31,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://soheilhbn.com/404.html">
+    <link rel="canonical" href="https://soheilhbn.com/projects/influencing_humans/">
     
     <!-- Dark Mode -->
     
@@ -106,12 +106,38 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">Influencing Human Partners</h1>
+            <p class="post-description">Robustly Influencing Latent Intent</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://soheilhbn.com/">here</a>.</p>
+            <p>When robots interact with human partners, often these partners change their behavior in response to the robot. On the one hand this is challenging because the robot must learn to coordinate with a dynamic partner. But on the other hand —if the robot understands these dynamics —it can harness its own behavior, <em>influence</em> the human, and guide the team towards effective collaboration. Prior research enables robots to learn to influence other robots or simulated agents. We extend these learning approaches to now influence <em>humans</em>. What makes humans especially hard to influence is that —not only do humans react to the robot— but the way a single user reacts to the robot may change over time, and different humans will respond to the same robot behavior in different ways.</p>
+
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+<figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/projects/influencing_humans/method-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/projects/influencing_humans/method-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/projects/influencing_humans/method-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/projects/influencing_humans/method.jpg" title="example image" data-zoomable="">
+
+  </picture>
+
+</figure>
+
+</div>
+</div>
+<div class="caption">
+Our proposed RILI algorithm. (Top) During training the ego agent interacts with partners that change latent dynamics without the ego agent's knowledge. (Bottom) To quickly adapt to new partners and latent dynamics not seen during training, we propose to update the encoder and decoder while leaving the policy fixed.
+</div>
+
+<p>We therefore propose a <em>robust</em> approach that learns to influence changing partner dynamics. Our method first trains with a set of partners across repeated interactions, and learns to predict the current partner’s behavior based on the previous states, actions, and rewards. Next, we rapidly adapt to new partners by sampling trajectories the robot learned with the original partners, and then leveraging those existing behaviors to influence the new partner dynamics. We compare our resulting algorithm to state-of-the-art baselines across simulated environments and a user study where the robot and participants collaborate to build towers. We find that our approach outperforms the alternatives, even when the partner follows new or unexpected dynamics.</p>
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/lYsWM8An18g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</p>
 
           </article>
 
