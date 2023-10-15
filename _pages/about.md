@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in mechanical engineering at Virginia Tech, and a research assistant at [Collab](https://collab.me.vt.edu/). My research interests include robot learning, human-robot collaboration, artificial intelligence, and robotics. I spent Spring 2023 as a research intern at [Honda Research Institute](https://usa.honda-ri.com/) working on modeling human cognitive states for human-automation interactions in hybrid mobility environments.
+I am a Ph.D. candidate in mechanical engineering at Virginia Tech, and a research assistant at [Collab](https://collab.me.vt.edu/). My research interests include robot learning, human-robot collaboration, artificial intelligence, and robotics. I spent Spring 2023 as a research intern at [Honda Research Institute](https://usa.honda-ri.com/) working on modeling human cognitive states in hybrid mobility environments.
 
 Previously, I did my masters in mechanical engineering at Bucknell University. My research, which was a cooperative project with the University of Michigan and funded by [Toyota Research Institute](https://www.tri.global/), focused on modeling and control of a flexible soft actuator for creating soft robotic arms.
 
